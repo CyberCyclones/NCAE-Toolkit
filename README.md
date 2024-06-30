@@ -21,5 +21,5 @@ Warranting the creation of this repository for public access.
 ## Toolkit Contents
 | Tool/Folder Name  | Description |
 | ------------- | ------------- |
-| Bluekit  | [Bluekit](https://github.com/SYNT4X1/Bluekit) is an opensource system forensics/patching tool.  |
-| Writeups | This is a brief collection of sourced/created information useful in competition|
+| Bluekit       | [Bluekit](https://github.com/SYNT4X1/Bluekit) is an open source system forensics/patching tool.  |
+| Writeups      | This is a brief collection of sourced/created information useful in competition |
